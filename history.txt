@@ -1,0 +1,266 @@
+    1  mkdir "Hello World"
+    2  cd "Hello World"
+    3  git config --global user.name "Nkululeko"
+    4  git config --global user.email "nkululekomollo@gmail.com"
+    5  git init
+    6  https://github.com/Nkululeko-TheDev/Hello-World.git
+    7  [200~echo "# Hello-World" >> README.md
+    8  git init
+    9  git add README.md
+   10  git commit -m "first commit"
+   11  git branch -M main
+   12  git remote add origin https://github.com/Nkululeko-TheDev/Hello-World.git
+   13  git push -u origin main
+   14  echo "console.log('Hello,world');">index.js
+   15  git init
+   16  git add .git commit -m "Initial commit:Hello World"
+   17  git remote add origin https://github.com/Nkululeko-TheDev/Hello-World.git
+   18  console.log("Hello World!");
+   19  console.log("Hello World");
+   20  cd hello-world 
+   21  cd hello wolrd
+   22  cd hello world
+   23  cd 'hello world'
+   24  node script.js
+   25  node script.js
+   26  mkdir hello-world
+   27  cd hello-world
+   28  touch index.js
+   29  echo 'console.log("Hello world");'>index.js
+   30  git init
+   31  git add
+   32  git add hello-world
+   33  touch index.html
+   34  echo "Hello World!">index.html
+   35  git init
+   36  git add index.html
+   37  git add index.js
+   38  git commit -m "Add hello.js with Hello World"
+   39  git remote add origin https://github.com/Nkululeko-TheDev/hi-world.git
+   40  git push origin master
+   41  git push origin master
+   42  git push origin main
+   43  git push origin main
+   44  code .
+   45  git commit -m "Add index.js with Hello World"
+   46  git add index.js
+   47  git commit -m "Add index.js with Hello World"
+   48  git commit -m "index.js"
+   49  git clone https://github.com/Nkululeko-TheDev/hi-world.git
+   50  ls
+   51  git commit -m "first commit"
+   52  cd ..
+   53  cd hello-world
+   54  ls
+   55  git init
+   56  git add index.js
+   57  git add README.md 
+   58  git status
+   59  git remove index.html
+   60  git commit -m "first commit"
+   61  git remote add origin https://github.com/Nkululeko-TheDev/hello-world.git
+   62  git push origin master
+   63  git push origin main
+   64  git push origin master
+   65  cd hello-world
+   66  git push origin master
+   67  git init
+   68  git remote add origin https://github.com/Nkululeko-TheDev/hello-world.git
+   69  git push origin master 
+   70  ls
+   71  mkdir practice
+   72  cd practice
+   73  touch practice.txt
+   74  echo "anything">practice.txt
+   75  ls 
+   76  cd ..
+   77  git init 
+   78  git push origin master
+   79  git remote add origin https://github.com/Nkululeko-TheDev/hello-world.git
+   80  git add index.js 
+   81  git commit -m "Add index.js with Hello World"
+   82  git commit -a "Add index.js with Hello World"
+   83  git commit -m "Add index.js with Hello World"
+   84  ls
+   85  git push origin master
+   86  git remote add origin https://github.com/Nkululeko-TheDev/hello-world.git
+   87  git remote
+   88  git remote -v
+   89  git remote set-url origin https://github.com/Nkululeko-TheDev/hello-world.git
+   90  git remote -v
+   91  git init
+   92  git commit -m "Add index.js with Hello World"
+   93  git push origin master
+   94  git restore index.html
+   95  git push origin master
+   96  git init
+   97  git push origin main
+   98  git push origin master
+   99  git remote
+  100  git remote -v
+  101  cd ..
+  102  git clone https://github.com/Nkululeko-TheDev/task-1-prac.git
+  103  cd task-1-prac
+  104  ls
+  105  code .
+  106  git pull origin main
+  107  ls
+  108  git pull origin main
+  109  echo "The shell is my translator to the OS"
+  110  pwd
+  111  ls
+  112  cd Documents
+  113  mkdir Document
+  114  cd Document
+  115  cd ..
+  116  nano shell_intro.sh
+  117  chmod +x shell_intro.sh
+  118  ./shell_intro.sh
+  119  touch refelction.txt
+  120  git mv refelction.txt reflection.txt
+  121  ls
+  122  git mv 
+  123  git mv refelction.txt reflection.txt
+  124  git commit -m " Renamed refelction.txt reflection.txt"
+  125  echo "What is the purpose of a shell?" > reflection.txt
+  126  echo "What did you learn by running shell commands?" > reflection.txt
+  127  echo "How was using the terminal different from click through folders" > reflection.txt
+  128  git add
+  129  git add shell_arch_pract.md
+  130  git add shell_intro.sh
+  131  git add reflection.txt
+  132  git commit -m "Completed shell architecture hands-on tasks"
+  133  git push 
+  134  [200~echo "1. What is the purpose of a shell?" > reflection.txt
+  135  echo "2. What did you learn by running shell commands?"> reflection.txt
+  136  nano reflection.txt
+  137  nano relection.txt
+  138  history
+  139  cd task-1-prac
+  140  code .
+  141  ls
+  142  cd task-1-prac
+  143  ls
+  144  cd taks-1-prac
+  145  cd task-1-prac
+  146  ls
+  147  code . 
+  148  echo "The shell is my translator to the OS"
+  149  pwd
+  150  ls
+  151  mkdir Documents
+  152  cd Documents
+  153  cd .. 
+  154  nano shell_intro.sh
+  155  chmod +x shell_intro.sh
+  156  ./shell_intro.sh
+  157  git add shell_intro.sh
+  158  git add reflection.txt
+  159  git commit -m "Completed shell architecture hands-on tasks"
+  160  git push
+  161  git log
+  162  history
+  163  git add history_log.png
+  164  git commit -m "Completed shell architecture hands-on tasks"
+  165  git push
+  166      git commit -m "Add new image: history_log.png"
+  167  git push origin main
+  168  nano reflection.txt
+  169  ./shell_intro.sh
+  170  nano reflection.txt
+  171  ./shell_intro.sh
+  172  nano reflection.txt
+  173  git commit -m "Completed shell architecture hands-on tasks"
+  174  git push
+  175  ./shell_intro.sh
+  176  cd task-1-prac
+  177  ls
+  178  cd task-1-prac
+  179  ls
+  180  history
+  181  ls
+  182  git init
+  183  mkdir Tpc_Community
+  184  cd Tpc_Community
+  185  mkdir automation_scripts
+  186  mkdir documentation
+  187  cd automation_scripts
+  188  nano deploy.sh
+  189  shell help
+  190  chmod +x deploy.sh
+  191  ./deploy.sh
+  192  nano deploy.sh
+  193  ./deploy.sh
+  194  nano deploy.sh
+  195  ./deploy.sh
+  196  cd ..
+  197  cd documentation
+  198  ls
+  199  cd ..
+  200  cd automation_scripts
+  201  nano deploy.sh
+  202  ls
+  203  cd documentation
+  204  cd ..
+  205  cd documentation
+  206  ls
+  207  ./deploy.sh
+  208  cd ..
+  209  cd automation_scripts
+  210  ./deploy.sh
+  211  nano deploy.sh
+  212  nano deploy.sh
+  213  nano deploy.sh
+  214  ./deploy.sh
+  215  cd ..
+  216  cd documentation
+  217  ls
+  218  git rm styly_guide.txt
+  219  git rm documentation/styly_guide.txt
+  220  ls
+  221  git rm styly_guide.txt
+  222  ls
+  223  nano deploy.sh
+  224  ls
+  225  cd Tpc_Community
+  226  ls
+  227  cd documentation
+  228  ls
+  229  rm -rf*
+  230  mkdir Tpc_Community
+  231  cd Tpc_Community
+  232  ls
+  233  cd Tpc_Community
+  234  cd Documentation
+  235  ls
+  236  cd ..
+  237  cd automation_scripts
+  238  ls
+  239  ls
+  240  cd ..
+  241  history > history.txt
+  242  ls
+  243  git clone https://github.com/Nkululeko-TheDev/tpc-community.git
+  244  git init
+  245  git add .
+  246  git push origin master
+  247  git push origin main
+  248  ls
+  249  git add remote https://github.com/Nkululeko-TheDev/tpc-community.git
+  250  mkdir Project-Navigator
+  251  cd Project-Navigator
+  252  touch Project_text.txt
+  253  echo "Purpose of the project is to set up a project environment, document your process using version control, and integrate with a remote GitHub project using a forked workflow." > Project_text.txt
+  254  echo "Name: Nkululeko Mollo" >> Project_text.txt
+  255  echo "Cell number: 0835279764" >> Project_text.txt
+  256  git init
+  257  git add
+  258  cd ..
+  259  cd Project-Navigator
+  260  git add .
+  261  git commit -m "Environment setup and automation"
+  262  git push 
+  263  git remote add origin https://github.com/Nkululeko-TheDev/Project_Navigator.git
+  264  git push origin master
+  265  ls
+  266  history > history.txt
