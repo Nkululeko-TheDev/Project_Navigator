@@ -1,3 +1,4 @@
 Purpose of the project is to set up a project environment, document your process using version control, and integrate with a remote GitHub project using a forked workflow.
 Name: Nkululeko Mollo
 Cell number: 0835279764
+Birth date: 02 April 1995
